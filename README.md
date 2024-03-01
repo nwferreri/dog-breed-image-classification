@@ -25,6 +25,23 @@ I also looked at the distribution of dog breeds in the training set, visualized 
 ![image](https://github.com/nwferreri/dog-breed-image-classification/assets/112211174/8defd95d-f8c7-47da-94a3-8e83fcf2a9f9)<br>
 **Figure 1**: The number of images present for each of the 120 dog breeds in the training data. The median number of images was 82. The data seems to be fairly well balanced across the different breeds.
 
+
+---
+---
+
+| ![image](https://github.com/nwferreri/dog-breed-image-classification/assets/112211174/8defd95d-f8c7-47da-94a3-8e83fcf2a9f9) |
+| --- |
+| **Figure 1**: The number of images present for each of the 120 dog breeds in the training data. The median number of images was 82. The data seems to be fairly well balanced across the different breeds. |
+
+---
+---
+
+![image](https://github.com/nwferreri/dog-breed-image-classification/assets/112211174/8defd95d-f8c7-47da-94a3-8e83fcf2a9f9)
+> **Figure 1**: The number of images present for each of the 120 dog breeds in the training data. The median number of images was 82. The data seems to be fairly well balanced across the different breeds.
+
+---
+---
+
 A validation data set was created from a subset of the training data. I also started off only working with 1000 images to speed up testing.
 
 A function was created to turn images into tensors with 3 normalized color channels and an image size of (224, 224).
